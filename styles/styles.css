@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+.wrapper{
+    font-family: 'Rubik', sans-serif;
+
+}
+.container{
+    background-color:#3CDBC0;
+    height: 100vh;
+}
+
+.tittle{
+
+    color:#FFFFFF;
+
+}
